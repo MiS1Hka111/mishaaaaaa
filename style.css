@@ -1,0 +1,63 @@
+body {
+    font-family: sans-serif;
+}
+.MaSha{
+    border: 5px solid brown;
+    border-radius:15px;
+    padding: 10px;
+    margin: 10px;
+    background-color: brown;
+    color: black;
+    text-decoration: none;
+}
+.mishaa{
+    border: 5px solid grey;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+    background-color: gray;
+    color: black;
+    text-decoration:none;
+}
+.Mishaa{
+    border: 5px solid powderblue;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+    background-color: powderblue;
+    color: black;
+    text-decoration: none;
+}
+.MishaA{
+    border:5px solid darkgoldenrod;
+    border-radius:15px;
+    padding:10px;
+    margin: 10px;
+    background-color: darkgoldenrod;
+    color: black;
+    text-decoration: none;
+}
+.mishka{
+    border: 5px solid plum;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+    background-color: plum;
+    color: black;
+    text-decoration: none;
+}
+header{
+    margin-bottom:50px;
+}
+h1{
+    font-size:75px;
+    color: darkblue;
+
+}
+
+
+
+
+   
+
+
